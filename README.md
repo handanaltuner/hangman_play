@@ -1,2 +1,2 @@
 # hangman_play
-adam asmaca oyunu
+Python dersinde adam asmaca oyunu
